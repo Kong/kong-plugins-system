@@ -1,0 +1,11 @@
+project='kong-plugin-system'
+title='System wide Kong plugins'
+description='Helper module to create system wide/background plugins for Kong'
+format='discount'
+file='./kong/'
+dir='docs'
+readme='readme.md'
+sort=true
+sort_modules=true
+all=false
+style='./docs/'
